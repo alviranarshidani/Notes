@@ -1,0 +1,27 @@
+Install the following: 
+Create Github account repo, download emulator layer of git on windows: https://git-scm.com/downloads Branch – discreate pathway 
+Visual studio code - https://code.visualstudio.com/download 
+Node js – https://nodejs.org/en/ check in cmd or terminal 
+ 
+Create a directory from terminal in documents as dev. Clone git directory in this folder 
+Git clone https://github.com/alviranarshidani/MDEV1001MobileDataManagement 
+ 
+Open dev in vscode 
+ 
+npm – package manager for nodejs 
+>npm init 
+>Alviras-MacBook-Dev:MDEV1001MobileDataManagement alviranarshidani$ npm install—save RepoName typescript @types/node 
+ 
+Exclude dependencies in project – create .gitignore file write node_modules and save and stage and commit changes 
+ 
+Add index.js 
+To run on terminal: Alviras-MacBook-Pro:MDEV1001MobileDataManagement alviranarshidani$ node index 
+ 
+Delete index.js  
+ 
+Create tsconfig.json 
+Keep watch: ./node_modules/.bin/tsc 
+Index.ts 
+ 
+Run  
+node index 
